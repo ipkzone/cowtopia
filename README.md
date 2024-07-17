@@ -1,0 +1,2 @@
+# cowtopia
+Airdrop Bot Cowtopia
