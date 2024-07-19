@@ -8,8 +8,8 @@ Fiture Tools Bot Cowtopia
 - [x] Checking Info Account
 - [x] Auto Buy Animal
 - [x] Auto Claim Profit
-- [ ] Auto Buy Farm Cow
-- [ ] Auto Upgrade Level Factory House
+- [x] Auto Buy Farm Cow ${{\color{green}New}}$
+- [x] Auto Upgrade Level Factory House ${{\color{green}New}}$
 
 Register Bot [Cowtopia](https://t.me/cowtopiabot/app?startapp=6173288714).<br>
 
